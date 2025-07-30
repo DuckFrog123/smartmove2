@@ -1,0 +1,53 @@
+[0.026s] Invoking command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/sungdeok/turtlebot3_ws/src/turtlebot3/turtlebot3_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup
+[0.158s] -- The C compiler identification is GNU 11.4.0
+[0.253s] -- The CXX compiler identification is GNU 11.4.0
+[0.264s] -- Detecting C compiler ABI info
+[0.530s] -- Detecting C compiler ABI info - done
+[0.564s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.566s] -- Detecting C compile features
+[0.568s] -- Detecting C compile features - done
+[0.584s] -- Detecting CXX compiler ABI info
+[0.918s] -- Detecting CXX compiler ABI info - done
+[0.940s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.940s] -- Detecting CXX compile features
+[0.940s] -- Detecting CXX compile features - done
+[0.945s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.544s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.702s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.850s] -- Configuring done
+[2.854s] -- Generating done
+[2.857s] -- Build files have been written to: /home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup
+[2.868s] Invoked command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/sungdeok/turtlebot3_ws/src/turtlebot3/turtlebot3_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup
+[2.869s] Invoking command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup -- -j2 -l2
+[2.925s] Invoked command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup -- -j2 -l2
+[2.932s] Invoking command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup
+[2.961s] -- Install configuration: ""
+[2.962s] -- Execute custom install script
+[2.964s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/camera.launch.py
+[2.976s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/robot.launch.py
+[2.997s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/rviz2.launch.py
+[3.023s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_state_publisher.launch.py
+[3.052s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/burger.yaml
+[3.074s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/humble/burger.yaml
+[3.101s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/humble/waffle.yaml
+[3.132s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/humble/waffle_pi.yaml
+[3.159s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/waffle.yaml
+[3.181s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/waffle_pi.yaml
+[3.196s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/script/99-turtlebot3-cdc.rules
+[3.212s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/script/create_udev_rules
+[3.229s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/ament_index/resource_index/package_run_dependencies/turtlebot3_bringup
+[3.244s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/ament_index/resource_index/parent_prefix_path/turtlebot3_bringup
+[3.258s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.sh
+[3.270s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.dsv
+[3.285s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.sh
+[3.301s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.dsv
+[3.318s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.bash
+[3.339s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.sh
+[3.356s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.zsh
+[3.376s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.dsv
+[3.397s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/package.dsv
+[3.417s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/ament_index/resource_index/packages/turtlebot3_bringup
+[3.445s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+[3.470s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+[3.491s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+[3.507s] Invoked command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_node:/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/home/sungdeok/turtlebot3_ws/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/sungdeok/turtlebot3_ws/build/turtlebot3_bringup

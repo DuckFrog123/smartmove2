@@ -1,0 +1,75 @@
+[0.020s] Invoking command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/sungdeok/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node
+[0.103s] -- The C compiler identification is GNU 11.4.0
+[0.188s] -- The CXX compiler identification is GNU 11.4.0
+[0.198s] -- Detecting C compiler ABI info
+[0.304s] -- Detecting C compiler ABI info - done
+[0.320s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.321s] -- Detecting C compile features
+[0.322s] -- Detecting C compile features - done
+[0.331s] -- Detecting CXX compiler ABI info
+[0.462s] -- Detecting CXX compiler ABI info - done
+[0.481s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.483s] -- Detecting CXX compile features
+[0.484s] -- Detecting CXX compile features - done
+[0.492s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.057s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.183s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.216s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.333s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.351s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.385s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.425s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.459s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.546s] -- Found nav_msgs: 4.9.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[2.587s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[2.671s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.685s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.896s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.938s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.029s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.057s] -- Looking for pthread.h
+[3.244s] -- Looking for pthread.h - found
+[3.244s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.419s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.422s] -- Found Threads: TRUE  
+[3.545s] -- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[3.600s] -- Found tf2: 0.25.15 (/opt/ros/humble/share/tf2/cmake)
+[3.631s] -- Found tf2_msgs: 0.25.15 (/opt/ros/humble/share/tf2_msgs/cmake)
+[3.763s] -- Found turtlebot3_msgs: 2.4.0 (/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/share/turtlebot3_msgs/cmake)
+[3.982s] -- Configuring done
+[4.016s] -- Generating done
+[4.025s] -- Build files have been written to: /home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node
+[4.045s] Invoked command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/sungdeok/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node
+[4.047s] Invoking command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node -- -j2 -l2
+[4.167s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[25.543s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[26.564s] [100%] Built target turtlebot3_fake_node
+[26.583s] Invoked command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node -- -j2 -l2
+[26.585s] Invoking command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node
+[26.609s] -- Install configuration: ""
+[26.609s] -- Execute custom install script
+[26.612s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[26.635s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[26.657s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[26.683s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[26.703s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[26.724s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[26.740s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[26.764s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[26.795s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[26.812s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[26.830s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[26.851s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[26.891s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[26.907s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[26.924s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[26.952s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[26.971s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[27.000s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[27.020s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[27.039s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[27.082s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[27.101s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[27.118s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[27.136s] -- Symlinking: /home/sungdeok/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[27.158s] Invoked command in '/home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': AMENT_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/sungdeok/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/sungdeok/turtlebot3_ws/build/turtlebot3_fake_node
